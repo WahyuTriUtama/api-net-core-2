@@ -1,2 +1,6 @@
-# api-net-core-2
-api net core 2
+# Web API .Net Core 2
+
+- JWT Authentication
+- Global Authorize
+- Exception Handler
+- Cors
